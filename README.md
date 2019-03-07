@@ -1,2 +1,0 @@
-# photoframe
-Created with CodeSandbox
