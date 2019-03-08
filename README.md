@@ -1,4 +1,4 @@
-![PhotoFrame: React slideshow app tutorial](./docs/photoframe-header.png)
+[![PhotoFrame: React slideshow app tutorial](./docs/photoframe-header.png)](https://photoframe.now.sh/)
 
 # PhotoFrame tutorial
 
