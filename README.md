@@ -1,10 +1,15 @@
+![PhotoFrame: React slideshow app tutorial](./docs/photoframe-header.png)
+
 # PhotoFrame tutorial
 
-In this tutorial we are going to build a simple picture slideshow web application. This
-tutorial was written for a workshop at the TECH(K)NOW Day 2019. You can find
-the [slides of the workshop here](), with an introduction to React.
+In this tutorial we are going to build and deploy a simple picture slideshow web application with React.
+You can find the final deployed example in [https://photoframe.now.sh/](https://photoframe.now.sh/)
 
-Let's get started:
+This tutorial was written for a workshop at the TECH(K)NOW Day 2019. You can find
+the [slides of the workshop here](https://docs.google.com/presentation/d/1OxXnZay4Pr9kptvcrF4L3g65X31AXv2MzAqLYJDrZa8/edit?usp=sharing),
+with an introduction to React.
+
+Let's get started!
 
 # Starting React application
 
@@ -373,6 +378,20 @@ export class Slideshow extends React.Component {
 
 Now the pictures are changing every 5 seconds, with a small transition to
 smooth the change.
+
+# Deploying using CodeSandbox and ZEIT
+
+If you are using CodeSandbox, it is very easy to deploy the application to a production
+ready CDN provided by Zeit. Just open the Deploy section and follow the steps. You will
+need to create an account with Zeit, but they offer a great deployment solution for
+free, which is great for bootstrapping.
+
+This is how CodeSandbox deployment option looks like:
+
+![CodeSandbox deployment](./docs/codesandbox-deployment.png)
+
+You can find the example deployment of this application in [https://photoframe.now.sh/](https://photoframe.now.sh/).
+It is possible to add custom domain names if you want to as well.
 
 # Final note
 
