@@ -303,7 +303,7 @@ screen width and height. Great!
 
 # Changing pictures
 
-Now we want the `Slidshow` component to change the picture every few
+Now we want the `Slideshow` component to change the picture every few
 seconds, because otherwise it would not be a slideshow.
 
 1. Open the `src/Components/Slideshow.js` file
